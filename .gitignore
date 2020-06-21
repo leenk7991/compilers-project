@@ -23,29 +23,5 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
- *.iml
- *.txt
- *.exe
- *.xml
+
  .idea
- .idea/*.xml
-
-.idea/.gitignore
-.idea/google-java-format.xml
-.idea/misc.xml
-.idea/modules.xml
-
-
-step5.iml
-test1.out
-test2.out
-test3.out
-test4.out
-test5.out
-test6.out
-test7.out
-test8.out
-tiny.exe
-tinyDoc.txt
-tinyNew.C
-.idea/vcs.xml
