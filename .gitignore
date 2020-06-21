@@ -34,10 +34,8 @@ hs_err_pid*
 .idea/google-java-format.xml
 .idea/misc.xml
 .idea/modules.xml
-inputs/
-my outputs/
-outputs/
-src/
+
+
 step5.iml
 test1.out
 test2.out
